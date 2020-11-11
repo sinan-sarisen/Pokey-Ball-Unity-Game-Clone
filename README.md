@@ -1,7 +1,7 @@
 # Pokey Ball Unity Game Clone
 
-Its a clone one of Voodoo Games most downloaded game.<br/>
-Click the ball and pull down when you release ball will flick and goes up.<br/>
+It's a clone one of Voodoo Games most downloaded game.<br/>
+First click the ball and pull down, when you release ball it will flick and goes up.<br/>
 
 Rules of the game:<br/>
 -You can only jump on Orange walls.<br/>
